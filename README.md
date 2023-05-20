@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Sweet196/Sweet196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m an undergraduate in BUCT.
+- 🌱 I’m currently majoring in CS.
+- 🤔 I’m looking for help with English Learning( IELTS and GRE.)
+- 📫 How to reach me: p3051329030@gmail.com
+
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Cl0udG0d)](https://github.com/anuraghazra/github-readme-stats)
