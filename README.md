@@ -15,10 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### Hey guys!
 - 🔭 I’m an undergraduate in BUCT.
 - 🌱 I’m currently majoring in CS.
 - 🤔 I’m looking for help with English Learning( IELTS and GRE.)
 - 📫 How to reach me: p3051329030@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sweet196&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweet196&theme=calm)
+
+
+
+<div> 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sweet196&theme=calm)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sweet196&theme=calm)
+</div>
+
+<div> 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sweet196&theme=calm)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sweet196&theme=calm)
+</div>
+
