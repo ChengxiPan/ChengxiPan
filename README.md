@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m an undergraduate in BUCT.
 - 🌱 I’m currently majoring in CS.
 - 🤔 I’m looking for help with English Learning( IELTS and GRE.)
-- 📫 How to reach me: p3051329030@gmail.com
+- 📫 How to reach me: sweetchris1196@gmail.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweet196&theme=calm)
 
