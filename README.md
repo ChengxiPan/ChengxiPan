@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hey guys!
-- 🔭 I’m an undergraduate in BUCT.
-- 🌱 I’m currently majoring in CS.
-- 🤔 I’m looking for help with English Learning( IELTS and GRE.)
-- 📫 How to reach me: sweetchris1196@gmail.com, panchengxi@baidu.com
+- 🔭 I’m an graduate in University of Pittsburgh.
+- 🌱 I’m currently majoring in Information Science.
+- 🤔 I’m looking for help with English Learning.
+- 📫 How to reach me: sweetchris1196@gmail.com, chp252@pitt.edu
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweet196&theme=calm)
 
