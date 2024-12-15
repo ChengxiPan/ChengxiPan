@@ -22,16 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sweetchris1196@gmail.com, chp252@pitt.edu
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweet196&theme=calm)
-
-
-
-<div> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sweet196&theme=calm" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sweet196&theme=calm" />
-</div>
-
-<div> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sweet196&theme=calm" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sweet196&theme=calm" />
-</div>
-
